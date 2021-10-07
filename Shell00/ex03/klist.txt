@@ -1,0 +1,5 @@
+Credentials cache: API:24368020-F48B-4B86-B900-E0F3DBE224CE
+        Principal: snagat@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 14:07:44 2021  Sep 21 00:07:40 2021  krbtgt/1337.MA@1337.MA
